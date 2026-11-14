@@ -1,6 +1,8 @@
 # SlitherWorld-
 Updated slither.io cheat/hack for 2027 Current version v.0.5
 
+Install it using Tampermonkey or your preferred userscript extension the key to toggle the menu is INSERT
+
 Features:
 - [x] Ads Removal
 - [x] Zoom Out
