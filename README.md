@@ -28,7 +28,7 @@ Features:
 - [ ] Customizable Feeder Bots (Added Later Time)
 - [ ] More features will be available in the future, and you are welcome to make suggestions.
 
-<h2>Userscript: <a href="[https://github.com/OverhaxTeam/SlitherWorld-Updated/raw/master/SlitherWorldHack.user.js" target="_blank">CLICK HERE</a></h2>
+<h2>Userscript: <a href="[https://github.com/OverhaxTeam/SlitherWorld-Updated/raw/master/SlitherWorldHack.user.js]" target="_blank">CLICK HERE</a></h2>
 
 Credits: lukeeeebennett, overhax team and anyone who used the adlink for support :)
 
