@@ -3,6 +3,7 @@ Updated slither.io cheat/hack for 2027 Current version v.0.5
 
 Features:
 - [x] Ads Removal
+- [x] Zoom Out
 - [x] Scan For Custom Servers
 - [x] Login to Custom Servers
 - [x] Pick Custom Skins
@@ -33,3 +34,7 @@ Features:
 Credits: lukeeeebennett, overhax team and anyone who used the adlink for support :)
 
 Discord: https://discord.gg/HcHBg5v
+
+# Screen Shots-
+<img width="1917" height="899" alt="image" src="https://github.com/user-attachments/assets/285720cb-fb42-4342-acf6-51bf6bb28fc3" />
+<img width="1916" height="900" alt="image" src="https://github.com/user-attachments/assets/9c938e29-848a-4700-9b3b-d5e85ce2b3ff" />
